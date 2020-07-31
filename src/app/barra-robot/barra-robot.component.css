@@ -1,0 +1,46 @@
+.gride {
+  display: grid;
+  grid-template-columns:15% 30% 20% 20%;
+  align-items: center;
+  float: left;
+  gap: 1em;
+  background-position: top;
+}
+
+.input-image-puntuacion {
+  background-image: url('../../assets/Imagenes/Puntuacion.png');
+  background-repeat: no-repeat;
+  background-size: 40%;
+  display: grid;
+  align-items: center;
+  width: 400px;
+  background-position-x: 0%;
+  background-position-y: center;
+  height: 100px;
+}
+
+.input-image-tiempo {
+  background-image: url('../../assets/Imagenes/Tiempo.png');
+  background-repeat: no-repeat;
+  background-size: 40%;
+  display: grid;
+  align-items: center;
+  width: 400px;
+  background-position-x: 0%;
+  background-position-y: center;
+  height: 100px;
+}
+.input-tam {
+  width: 10%;
+  height: 38%;
+  align-items: center;
+  border: groove;
+}
+
+.MARQUEE{
+  width: 80%; height: 60%;
+  align-items: BOTTOM;
+  background-position-x: right;
+  object-position: right;
+  border-color: yellow;
+}

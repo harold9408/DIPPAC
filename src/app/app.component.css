@@ -1,0 +1,11 @@
+.fondo{
+  background-image: url('../assets/Imagenes/FONDO-PRUEBA.JPG');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  display: grid;
+  width: 100%;
+  padding-left: 28px;
+  height: 500px;
+  border-radius: 3px;
+}
