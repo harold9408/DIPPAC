@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "DislexiaVisual"
+    }
+  },
+  "defaultProject": "DislexiaVisual",
+  "cli": {
+    "analytics": "e5a46de2-4e11-435b-9b00-0ca4c03e7bee"
+  }
 }
